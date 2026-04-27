@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"ls -la /home/frosty/js/abp/.cursor/ 2>/dev/null; ls -la /home/frosty/js/abp/.github/ 2>/dev/null; cat /home/frosty/js/abp/.cursorrules 2>/dev/null\",\"description\":\"Check for Cursor and Copi...",
+  "error": "Exit code 1",
+  "timestamp": "2026-04-27T13:51:18.819Z",
+  "retry_count": 1
+}
